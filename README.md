@@ -58,11 +58,6 @@ I'm a full-stack developer with expertise in JavaScript, TypeScript, Python, and
 </details>
 
 <details>
-<summary>Recently used</summary>
-<img alt="Languages activity recently used" src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.plugin.languages.recent.svg" />
-</details>
-
-<details>
 <summary>Default algorithm</summary>
 <img alt="Languages activity default" src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.plugin.languages.svg" />
 </details>
