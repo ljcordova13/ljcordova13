@@ -10,14 +10,9 @@
 
 <h2 align="center">👤 About Me</h2>
 
-I'm a full-stack developer and cloud integrator with expertise in `JavaScript`, `TypeScript`, `Python`, and managing `AWS`/`Supabase` cloud infrastructure. I contribute to open-source projects and build tools that help developers work more efficiently. My focus is on database management, secure deployment pipelines, clean code, and scalability.
-
-### Interests
-* `>` **Backend Development** – Building robust APIs and microservices
-* `>` **Frontend Development** – Creating responsive, modern user interfaces
-* `>` **Data & Analytics** – Visualizing and processing data at scale
-* `>` **Cloud Architecture** – `AWS`, `Docker`, and containerization
-* `>` **Open Source** – Contributing to the developer community
+<p align="center">
+  <img src="assets/about_me.svg" width="100%" alt="About Me Terminal" />
+</p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
@@ -87,6 +82,36 @@ I'm a full-stack developer and cloud integrator with expertise in `JavaScript`, 
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ljcordova13&amp;show_icons=true&amp;bg_color=050505&amp;title_color=4ade80&amp;icon_color=38bdf8&amp;text_color=a9b1d6&amp;hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljcordova13&amp;bg_color=050505&amp;color=a9b1d6&amp;line=4ade80&amp;point=38bdf8&amp;area=true&amp;area_color=4ade80&amp;title_color=4ade80&amp;hide_border=true&amp;radius=12&amp;area=true&amp;custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
+
+<h2 align="center">⚡ GitHub Streak Stats</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ljcordova13&amp;background=050505&amp;stroke=1f2937&amp;ring=4ade80&amp;fire=4ade80&amp;currStreakNum=4ade80&amp;currStreakLabel=a9b1d6&amp;sideNums=38bdf8&amp;sideLabels=a9b1d6&amp;dates=a9b1d6&amp;hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ljcordova13&amp;theme=matrix&amp;column=3&amp;margin-w=8&amp;margin-h=8&amp;no-bg=true&amp;no-frame=true&amp;title=-Stars,-Issues,-Reviews" alt="GitHub Achievements" />
+</p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
+
+<h2 align="center">🧠 Most Used Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljcordova13&amp;layout=compact&amp;bg_color=050505&amp;title_color=4ade80&amp;icon_color=38bdf8&amp;text_color=a9b1d6&amp;hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
