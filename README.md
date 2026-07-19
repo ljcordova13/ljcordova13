@@ -90,21 +90,21 @@
 
 <h2 align="center">⚡ GitHub Streak Stats</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ljcordova13&amp;background=050505&amp;stroke=1f2937&amp;ring=4ade80&amp;fire=4ade80&amp;currStreakNum=4ade80&amp;currStreakLabel=a9b1d6&amp;sideNums=38bdf8&amp;sideLabels=a9b1d6&amp;dates=a9b1d6&amp;hide_border=true&amp;v=3" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=ljcordova13&amp;theme=transparent&amp;ring=4ade80&amp;fire=4ade80&amp;currStreakNum=4ade80&amp;currStreakLabel=a9b1d6&amp;sideNums=38bdf8&amp;sideLabels=a9b1d6&amp;dates=a9b1d6&amp;hide_border=true&amp;v=3" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ljcordova13&amp;theme=matrix&amp;column=3&amp;margin-w=8&amp;margin-h=8&amp;no-bg=true&amp;no-frame=true&amp;title=-Stars,-Issues,-Reviews" alt="GitHub Achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ljcordova13&amp;theme=dark&amp;column=3&amp;margin-w=8&amp;margin-h=8&amp;no-bg=false&amp;no-frame=false&amp;title=-Stars,-Issues,-Reviews&amp;v=3" alt="GitHub Achievements" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
 <h2 align="center">🧠 Most Used Languages</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.plugin.languages.svg" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljcordova13&amp;layout=compact&amp;bg_color=050505&amp;border_color=1f2937&amp;title_color=4ade80&amp;icon_color=38bdf8&amp;text_color=a9b1d6&amp;hide_border=false&amp;count_private=true&amp;v=3" alt="Most Used Languages" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
