@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer building innovative sol
 
 ## 🚀 About Me
 
-I'm a full-stack developer with expertise in JavaScript, TypeScript, Python, and cloud-native technologies. I contribute to open-source projects and build tools that help developers work more efficiently. My focus is on clean code, scalability, and creating meaningful user experiences.
+I'm a full-stack developer and cloud integrator with expertise in JavaScript, TypeScript, Python, and managing AWS/Supabase cloud infrastructure. I contribute to open-source projects and build tools that help developers work more efficiently. My focus is on database management, secure deployment pipelines, clean code, and scalability.
 
 ### Interests
 - 🔧 **Backend Development** – Building robust APIs and microservices
@@ -79,23 +79,41 @@ I'm a full-stack developer with expertise in JavaScript, TypeScript, Python, and
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="Frameworks and libraries" src="https://skillicons.dev/icons?i=react,nodejs,express,django&perline=4" />
+    <img alt="Frameworks and libraries" src="https://skillicons.dev/icons?i=react,nextjs,nestjs,prisma,expo,express,django&perline=4" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="Tools and platforms" src="https://skillicons.dev/icons?i=docker,aws,git,vscode&perline=4" />
+    <img alt="Tools and platforms" src="https://skillicons.dev/icons?i=supabase,docker,aws,git,vscode&perline=4" />
   </a>
 </p>
 
 ---
 
-
 ## 📚 Featured Projects
 
-- 🛢️ **[advisoil](https://github.com/ljcordova13/advisoil)**
-- 💳 **[inspirewallet](https://github.com/ljcordova13/inspirewallet)** ([Landing Page](https://www.inspirewallet.app/))
+### 💳 Inspire Holdings iWallet Platform
+A production-grade fintech platform comprising a mobile wallet app, an administrative portal, and a secure API backend service.
+*   **Backend API** ([SevenIWalletBackend](file:///c:/INSPIRE/SevenIWalletBackend)) – Built with **NestJS**, **Prisma**, and **PostgreSQL**. Handles secure ledger accounting, authentication, real-time web-socket updates, and transaction audits.
+*   **Admin Portal** ([inspireadmin2](file:///c:/INSPIRE/inspireadmin2)) – Built with **Next.js 16 (App Router)** and **React 19**. Developed a secure dashboard featuring role-based access control (RBAC) to allow developers, administrators, and sales representatives to audit ledger balances and view platform analytics.
+*   **Mobile Wallet** ([InspirewalletV3](file:///c:/INSPIRE/InspirewalletV3)) – Built with **Expo React Native** and **React Navigation**. Delivers a highly responsive UX for users to initiate deposits, view balances, and manage their wallets.
+*   **AWS Cloud Setup & DevOps** – Managed the cloud infrastructure setup on **AWS**, configuring environment variables, secure staging deployment pipelines, and hosting.
+*   **Landing Pages:** [inspirewallet.app](https://www.inspirewallet.app/) / [impay.ph](https://impay.ph/) *(Note: impay.ph is currently unavailable in the Philippines due to company request)*
+
+---
+
+### 🗄️ IT Asset Inventory System
+A full-stack tracking and registry suite designed to monitor, audit, and log enterprise IT infrastructure hardware.
+*   **Backend API** ([ITAssetBackend](file:///c:/INSPIRE/ITAssetBackend)) – Built with **NestJS**. Handles asset databases, checkout requests, and logging of hardware equipment.
+*   **Admin Dashboard** ([it-asset-inventory-frontend](file:///c:/INSPIRE/it-asset-inventory-frontend)) – Built with **Next.js** and **Supabase Auth**. Web console to search, catalog, and allocate IT assets.
+*   **Mobile Application** ([it-asset-inventory-mobile](file:///c:/INSPIRE/it-asset-inventory-mobile)) – Built with **Expo React Native**. Provides field technicians with a quick-scan tool to update hardware registry on the go.
+*   **Supabase Database & Auth Management** – Architected and configured the **Supabase** backend, setting up database tables, schemas, Row Level Security (RLS) policies, and auth flows.
+
+---
+
+### 🛢️ [advisoil](https://github.com/ljcordova13/advisoil)
+An open-source project focused on resource planning and analysis.
 
 ---
 
