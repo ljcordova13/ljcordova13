@@ -21,8 +21,10 @@ jobs:
         with:
           github_user_name: ljcordova13
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#22D3EE&color_dots=#161b22,#0d2e5c,#1d4ed8,#3b82f6,#60a5fa
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#22D3EE&color_dots=#161b22,#0d2e5c,#1d4ed8,#3b82f6,#60a5fa
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           
       - name: push github-contribution-grid-snake to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
