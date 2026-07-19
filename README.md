@@ -83,14 +83,14 @@
   <img src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.svg" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljcordova13&amp;bg_color=050505&amp;color=a9b1d6&amp;line=4ade80&amp;point=38bdf8&amp;area=true&amp;area_color=4ade80&amp;title_color=4ade80&amp;hide_border=true&amp;radius=12&amp;area=true&amp;custom_title=Contribution%20Graph&amp;v=2" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljcordova13&amp;bg_color=050505&amp;color=a9b1d6&amp;line=4ade80&amp;point=38bdf8&amp;area=true&amp;area_color=4ade80&amp;title_color=4ade80&amp;hide_border=true&amp;radius=12&amp;area=true&amp;custom_title=Contribution%20Graph&amp;v=3" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
 <h2 align="center">⚡ GitHub Streak Stats</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ljcordova13&amp;background=050505&amp;stroke=1f2937&amp;ring=4ade80&amp;fire=4ade80&amp;currStreakNum=4ade80&amp;currStreakLabel=a9b1d6&amp;sideNums=38bdf8&amp;sideLabels=a9b1d6&amp;dates=a9b1d6&amp;hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=ljcordova13&amp;background=050505&amp;stroke=1f2937&amp;ring=4ade80&amp;fire=4ade80&amp;currStreakNum=4ade80&amp;currStreakLabel=a9b1d6&amp;sideNums=38bdf8&amp;sideLabels=a9b1d6&amp;dates=a9b1d6&amp;hide_border=true&amp;v=3" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
