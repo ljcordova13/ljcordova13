@@ -1,10 +1,14 @@
-# 👋 LJ Cordova
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="LJ Cordova Header" />
+</p>
 
-Welcome to my GitHub profile! I'm a passionate developer building innovative solutions with modern tech stacks. This profile showcases my projects, contributions, and coding journey.
+<p align="center">
+  Welcome to my GitHub profile! I'm a passionate developer building innovative solutions with modern tech stacks. This profile showcases my projects, contributions, and coding journey.
+</p>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 I'm a full-stack developer and cloud integrator with expertise in JavaScript, TypeScript, Python, and managing AWS/Supabase cloud infrastructure. I contribute to open-source projects and build tools that help developers work more efficiently. My focus is on database management, secure deployment pipelines, clean code, and scalability.
 
@@ -15,9 +19,9 @@ I'm a full-stack developer and cloud integrator with expertise in JavaScript, Ty
 - ☁️ **Cloud Architecture** – AWS, Docker, and containerization
 - 🤝 **Open Source** – Contributing to the developer community
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
-## 📈 GitHub Metrics
+<h2 align="center">📈 GitHub Metrics</h2>
 
 [![Metrics](https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.svg)](https://github.com/ljcordova13/ljcordova13)
 
@@ -34,9 +38,9 @@ I'm a full-stack developer and cloud integrator with expertise in JavaScript, Ty
   </a>
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
-## 📅 Isometric Commit Calendar
+<h2 align="center">📅 Isometric Commit Calendar</h2>
 
 <details open>
 <summary>Full year calendar</summary>
@@ -48,10 +52,20 @@ I'm a full-stack developer and cloud integrator with expertise in JavaScript, Ty
 <img alt="Isometric commit calendar half year" src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.plugin.isocalendar.svg" />
 </details>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
+<h2 align="center">🐍 Contribution Snake</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ljcordova13/ljcordova13/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ljcordova13/ljcordova13/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
-## 🛠️ Tech Stack
+<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
+
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -71,17 +85,26 @@ I'm a full-stack developer and cloud integrator with expertise in JavaScript, Ty
   </a>
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
-## 📚 Featured Projects
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ljcordova13&amp;show_icons=true&amp;theme=dark&amp;hide_border=true" height="150" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljcordova13&amp;layout=compact&amp;theme=dark&amp;hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
+
+<h2 align="center">📚 Featured Projects</h2>
 
 ### 💳 Inspire Holdings iWallet Platform
 A production-grade fintech platform comprising a mobile wallet app, an administrative portal, and a secure API backend service.
 
 <p align="center">
-  <img src="assets/sevenIWalletLogo.png" width="120" alt="Inspire Wallet Logo" />
+  <img src="assets/sevenIWalletLogo.png?v=2" width="120" alt="Inspire Wallet Logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/impay_logo.png" width="120" alt="impay Logo" />
+  <img src="assets/impay_logo.png?v=2" width="120" alt="impay Logo" />
 </p>
 
 *   **Backend API** ([SevenIWalletBackend](file:///c:/INSPIRE/SevenIWalletBackend)) – Built with **NestJS**, **Prisma**, and **PostgreSQL**. Handles secure ledger accounting, authentication, real-time web-socket updates, and transaction audits.
@@ -90,7 +113,7 @@ A production-grade fintech platform comprising a mobile wallet app, an administr
 *   **AWS Cloud Setup & DevOps** – Managed the cloud infrastructure setup on **AWS**, configuring environment variables, secure staging deployment pipelines, and hosting.
 *   **Landing Pages:** [inspirewallet.app](https://www.inspirewallet.app/) / [impay.ph](https://impay.ph/) *(Note: impay.ph is currently unavailable in the Philippines due to company request)*
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
 ### 🗄️ IT Asset Inventory System
 A full-stack tracking and registry suite designed to monitor, audit, and log enterprise IT infrastructure hardware.
@@ -99,7 +122,7 @@ A full-stack tracking and registry suite designed to monitor, audit, and log ent
 *   **Mobile Application** ([it-asset-inventory-mobile](file:///c:/INSPIRE/it-asset-inventory-mobile)) – Built with **Expo React Native**. Provides field technicians with a quick-scan tool to update hardware registry on the go.
 *   **Supabase Database & Auth Management** – Architected and configured the **Supabase** backend, setting up database tables, schemas, Row Level Security (RLS) policies, and auth flows.
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
 ### 🌱 [AdviSoil](https://github.com/ljcordova13/advisoil)
 An **IoT-based smart soil monitoring system** designed to help home gardeners and small-scale farmers make informed planting decisions through real-time soil analysis. The system continuously measures soil metrics and provides intelligent plant recommendations based on the collected data.
@@ -147,10 +170,26 @@ The custom hardware unit features an **ESP32 NodeMCU** controller connected to a
   <img src="assets/advisoil/advisoil_app_recommendation_inputs.png" width="30%" alt="Generated Soil Recommendations" />
 </p>
 
-## 📞 Get in Touch
+<h2 align="center">📞 Get in Touch</h2>
 
-- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/lj-cordova-aa0701402/)
-- 📧 **Email**: [ljcordova30@gmail.com](mailto:ljcordova30@gmail.com)
-- 📞 **Phone**: [09687944312](tel:09687944312)
+<p align="center">
+  <a href="https://www.linkedin.com/in/lj-cordova-aa0701402/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ljcordova30@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="tel:09687944312">
+    <img src="https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="Phone" />
+  </a>
+</p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer" />
+</p>
 
 

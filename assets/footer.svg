@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="100%" height="150" style="background: radial-gradient(circle at 50% 100%, rgb(18, 16, 33) 0%, rgb(10, 8, 20) 100%); border-radius: 12px; overflow: hidden; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4);">
+  <defs>
+    <!-- Linear Gradients -->
+    <linearGradient id="footerNeon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#8B5CF6" />
+    </linearGradient>
+    <linearGradient id="footerCyan" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06B6D4" />
+      <stop offset="100%" stop-color="#3B82F6" />
+    </linearGradient>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&amp;family=JetBrains+Mono&amp;display=swap');
+      
+      .footer-title {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 700;
+        font-size: 22px;
+        fill: #FFFFFF;
+      }
+      .footer-sub {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 400;
+        font-size: 15px;
+        fill: #9CA3AF;
+      }
+      .footer-wave {
+        animation: fWave 12s linear infinite;
+        transform-origin: bottom center;
+      }
+      .footer-wave2 {
+        animation: fWave2 16s linear infinite;
+        transform-origin: bottom center;
+      }
+      .particle {
+        fill: #22D3EE;
+        animation: floatParticle 5s infinite ease-in-out;
+      }
+
+      @keyframes fWave {
+        0% { transform: rotate(0deg) translate(0, 0); }
+        50% { transform: rotate(1deg) translate(-10px, 5px); }
+        100% { transform: rotate(0deg) translate(0, 0); }
+      }
+      @keyframes fWave2 {
+        0% { transform: rotate(0deg) translate(0, 0); }
+        50% { transform: rotate(-2deg) translate(10px, -3px); }
+        100% { transform: rotate(0deg) translate(0, 0); }
+      }
+      @keyframes floatParticle {
+        0%, 100% { transform: translateY(0px) translateX(0px); opacity: 0.2; }
+        50% { transform: translateY(-10px) translateX(5px); opacity: 0.8; }
+      }
+    </style>
+  </defs>
+
+  <!-- Floating Particles -->
+  <circle cx="120" cy="40" r="2.5" class="particle" style="animation-delay: 0s" />
+  <circle cx="680" cy="30" r="1.5" class="particle" style="animation-delay: 1.5s; fill: #8B5CF6" />
+  <circle cx="250" cy="80" r="2" class="particle" style="animation-delay: 3s" />
+  <circle cx="550" cy="60" r="3" class="particle" style="animation-delay: 0.8s; fill: #8B5CF6" />
+
+  <!-- Animated Bottom Waves -->
+  <path class="footer-wave" opacity="0.1" fill="url(#footerNeon)" d="M 0,110 C 150,90 300,120 450,100 C 600,80 700,110 800,100 L 800,150 L 0,150 Z" />
+  <path class="footer-wave2" opacity="0.07" fill="url(#footerCyan)" d="M 0,100 C 200,115 350,85 500,110 C 650,130 720,95 800,110 L 800,150 L 0,150 Z" />
+
+  <!-- Texts -->
+  <text x="400" y="55" text-anchor="middle" class="footer-title">Thank you for visiting! 😊</text>
+  <text x="400" y="85" text-anchor="middle" class="footer-sub">Happy Coding! 🚀 | Built with ❤️ by LJ Cordova</text>
+</svg>
