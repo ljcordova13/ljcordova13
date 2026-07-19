@@ -83,7 +83,7 @@
   <img src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.svg" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljcordova13&amp;bg_color=050505&amp;color=a9b1d6&amp;line=4ade80&amp;point=38bdf8&amp;area=true&amp;area_color=4ade80&amp;title_color=4ade80&amp;hide_border=true&amp;radius=12&amp;area=true&amp;custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljcordova13&amp;bg_color=050505&amp;color=a9b1d6&amp;line=4ade80&amp;point=38bdf8&amp;area=true&amp;area_color=4ade80&amp;title_color=4ade80&amp;hide_border=true&amp;radius=12&amp;area=true&amp;custom_title=Contribution%20Graph&amp;v=2" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
