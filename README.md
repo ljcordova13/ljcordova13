@@ -72,7 +72,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="Tools and platforms" src="https://skillicons.dev/icons?i=supabase,docker,aws,git,vscode&amp;perline=4&amp;theme=dark" />
+    <img alt="Tools and platforms" src="https://skillicons.dev/icons?i=supabase,docker,aws,git,vscode&perline=4&theme=dark" />
   </a>
 </p>
 
@@ -83,28 +83,28 @@
   <img src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.svg" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljcordova13&amp;bg_color=050505&amp;color=a9b1d6&amp;line=4ade80&amp;point=38bdf8&amp;area=true&amp;area_color=4ade80&amp;title_color=4ade80&amp;hide_border=true&amp;radius=12&amp;area=true&amp;custom_title=Contribution%20Graph&amp;v=3" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljcordova13&bg_color=050505&color=a9b1d6&line=4ade80&point=38bdf8&area=true&area_color=4ade80&title_color=4ade80&hide_border=true&radius=12&area=true&custom_title=Contribution%20Graph&v=3" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
 <h2 align="center">⚡ GitHub Streak Stats</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ljcordova13&amp;theme=transparent&amp;ring=4ade80&amp;fire=4ade80&amp;currStreakNum=4ade80&amp;currStreakLabel=a9b1d6&amp;sideNums=38bdf8&amp;sideLabels=a9b1d6&amp;dates=a9b1d6&amp;hide_border=true&amp;v=3" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=ljcordova13&theme=transparent&ring=4ade80&fire=4ade80&currStreakNum=4ade80&currStreakLabel=a9b1d6&sideNums=38bdf8&sideLabels=a9b1d6&dates=a9b1d6&hide_border=true&v=3" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ljcordova13&amp;theme=dark&amp;column=3&amp;margin-w=8&amp;margin-h=8&amp;no-bg=false&amp;no-frame=false&amp;title=-Stars,-Issues,-Reviews&amp;v=3" alt="GitHub Achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ljcordova13&theme=dark&column=3&margin-w=8&margin-h=8&no-bg=false&no-frame=false&title=-Stars,-Issues,-Reviews&v=3" alt="GitHub Achievements" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
 <h2 align="center">🧠 Most Used Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljcordova13&amp;layout=compact&amp;bg_color=050505&amp;border_color=1f2937&amp;title_color=4ade80&amp;icon_color=38bdf8&amp;text_color=a9b1d6&amp;hide_border=false&amp;count_private=true&amp;v=3" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljcordova13&layout=compact&bg_color=050505&border_color=1f2937&title_color=4ade80&icon_color=38bdf8&text_color=a9b1d6&hide_border=false&count_private=true&v=3" alt="Most Used Languages" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
