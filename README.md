@@ -115,7 +115,8 @@ I'm a full-stack developer with expertise in JavaScript, TypeScript, Python, and
 
 ## 📚 Featured Projects
 
-Check out my repositories on [github.com/ljcordova13](https://github.com/ljcordova13?tab=repositories) for projects and contributions.
+- 🛢️ **[advisoil](https://github.com/ljcordova13/advisoil)**
+- 💳 **[inspirewallet](https://github.com/ljcordova13/inspirewallet)** ([Landing Page](https://www.inspirewallet.app/))
 
 ---
 
@@ -132,9 +133,10 @@ I'm always open to collaborations and contributions! If you're interested in wor
 
 ## 📞 Get in Touch
 
-- 💼 **LinkedIn**: [LinkedIn Profile](https://linkedin.com)
-- 🐦 **Twitter**: [@LJCordova](https://twitter.com)
-- 📧 **Email**: [contact@ljcordova.dev](mailto:contact@ljcordova.dev)
+- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/lj-cordova-aa0701402/)
+- 🐦 **Twitter**: [@LJCordova](https://twitter.com/LJCordova)
+- 📧 **Email**: [ljcordova30@gmail.com](mailto:ljcordova30@gmail.com)
+- 📞 **Phone**: [09687944312](tel:09687944312)
 - 💻 **Portfolio**: [ljcordova.dev](https://ljcordova.dev)
 
 ---
