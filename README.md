@@ -94,10 +94,51 @@ A full-stack tracking and registry suite designed to monitor, audit, and log ent
 
 ---
 
-### 🛢️ [advisoil](https://github.com/ljcordova13/advisoil)
-An open-source project focused on resource planning and analysis.
+### 🌱 [AdviSoil](https://github.com/ljcordova13/advisoil)
+An **IoT-based smart soil monitoring system** designed to help home gardeners and small-scale farmers make informed planting decisions through real-time soil analysis. The system continuously measures soil metrics and provides intelligent plant recommendations based on the collected data.
 
----
+<p align="center">
+  <img src="assets/advisoil/advisoil_logo.png" width="180" alt="AdviSoil Logo" />
+</p>
+
+#### 📡 Hardware & Sensor Integration
+The custom hardware unit features an **ESP32 NodeMCU** controller connected to an **RS485 6-in-1 Soil Sensor** (via a MAX485 TTL converter) to continuously collect:
+*   **Chemical parameters:** Soil pH, Nitrogen (N), Phosphorus (P), Potassium (K).
+*   **Physical parameters:** Soil Temperature, Soil Moisture, Electrical Conductivity (EC).
+
+#### 📱 Software Architecture
+*   **Data Pipeline:** Sensor data is transmitted via Wi-Fi from the ESP32 to **Firebase Realtime Database**.
+*   **Mobile Companion:** An **Android (Java)** application retrieves the live data, supports monitoring multiple paired sensors, displays historical trends, and executes an algorithm to recommend matching plants.
+*   **Alerting System:** **Firebase Cloud Messaging (FCM)** and **Cloud Functions (Python)** send push notifications to users when soil metrics go out of optimal ranges.
+
+#### 🛠️ Technologies
+`ESP32 NodeMCU` • `RS485 Soil Sensor` • `MAX485 TTL` • `Firebase Realtime DB` • `Firebase Auth` • `FCM` • `Android Studio (Java)` • `Cloud Functions (Python)`
+
+#### 📸 Project Showcase
+
+##### 🎛️ Hardware & Enclosure
+<p align="center">
+  <img src="assets/advisoil/advisoil_device.png" width="48%" alt="Physical Monitoring Unit" />
+  &nbsp;
+  <img src="assets/advisoil/advisoil_schematic.png" width="48%" alt="3D Device Layout" />
+</p>
+
+##### 📱 Android Mobile Application
+<p align="center">
+  <img src="assets/advisoil/advisoil_app_login.png" width="30%" alt="App Authentication Screen" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/advisoil/advisoil_app_dashboard.png" width="30%" alt="Sensor Paired Dashboard" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/advisoil/advisoil_app_gauges.png" width="30%" alt="Real-time Parameter Gauges" />
+</p>
+
+<p align="center">
+  <img src="assets/advisoil/advisoil_app_area_select.png" width="30%" alt="Area Type Dropdown" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/advisoil/advisoil_app_crop_select.png" width="30%" alt="Crop Recommendation Selection" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/advisoil/advisoil_app_recommendation_inputs.png" width="30%" alt="Generated Soil Recommendations" />
+</p>
 
 ## 📞 Get in Touch
 
