@@ -50,24 +50,6 @@ I'm a full-stack developer and cloud integrator with expertise in JavaScript, Ty
 
 ---
 
-## 🈷️ Languages Activity
-
-<details open>
-<summary>In-depth analysis</summary>
-<img alt="Languages activity in-depth" src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.plugin.languages.indepth.svg" />
-</details>
-
-<details>
-<summary>Default algorithm</summary>
-<img alt="Languages activity default" src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.plugin.languages.svg" />
-</details>
-
-<details>
-<summary>Default algorithm with details</summary>
-<img alt="Languages activity with details" src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.plugin.languages.details.svg" />
-</details>
-
----
 
 ## 🛠️ Tech Stack
 
