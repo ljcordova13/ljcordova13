@@ -8,7 +8,7 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
-<h2 align="center">>_ About Me</h2>
+<h2 align="center">👤 About Me</h2>
 
 I'm a full-stack developer and cloud integrator with expertise in `JavaScript`, `TypeScript`, `Python`, and managing `AWS`/`Supabase` cloud infrastructure. I contribute to open-source projects and build tools that help developers work more efficiently. My focus is on database management, secure deployment pipelines, clean code, and scalability.
 
@@ -21,7 +21,7 @@ I'm a full-stack developer and cloud integrator with expertise in `JavaScript`, 
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
-<h2 align="center">~/GitHub Metrics</h2>
+<h2 align="center">📈 GitHub Metrics</h2>
 
 [![Metrics](https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.svg)](https://github.com/ljcordova13/ljcordova13)
 
@@ -40,7 +40,7 @@ I'm a full-stack developer and cloud integrator with expertise in `JavaScript`, 
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
-<h2 align="center">>_ Isometric Commit Calendar</h2>
+<h2 align="center">📅 Isometric Commit Calendar</h2>
 
 <details open>
 <summary>Full year calendar</summary>
@@ -54,7 +54,7 @@ I'm a full-stack developer and cloud integrator with expertise in `JavaScript`, 
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
-<h2 align="center">>_ Contribution Snake</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ljcordova13/ljcordova13/output/github-contribution-grid-snake-dark.svg">
@@ -65,7 +65,7 @@ I'm a full-stack developer and cloud integrator with expertise in `JavaScript`, 
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
-<h2 align="center">~/Tech Stack</h2>
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -87,7 +87,7 @@ I'm a full-stack developer and cloud integrator with expertise in `JavaScript`, 
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
-<h2 align="center">>_ GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ljcordova13&amp;show_icons=true&amp;theme=radical&amp;bg_color=111111&amp;title_color=4ade80&amp;icon_color=4ade80&amp;text_color=ffffff&amp;hide_border=true" height="150" alt="GitHub Stats" />
   &nbsp;&nbsp;
@@ -96,7 +96,7 @@ I'm a full-stack developer and cloud integrator with expertise in `JavaScript`, 
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
-<h2 align="center">~/Featured Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 ### [💳] Inspire Holdings iWallet Platform
 A production-grade fintech platform comprising a mobile wallet app, an administrative portal, and a secure API backend service.
@@ -170,7 +170,7 @@ The custom hardware unit features an `ESP32 NodeMCU` controller connected to an 
   <img src="assets/advisoil/advisoil_app_recommendation_inputs.png" width="30%" alt="Generated Soil Recommendations" />
 </p>
 
-<h2 align="center">>_ Get in Touch</h2>
+<h2 align="center">📬 Get in Touch</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lj-cordova-aa0701402/">
