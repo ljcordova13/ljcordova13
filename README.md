@@ -69,20 +69,6 @@ I'm a full-stack developer with expertise in JavaScript, TypeScript, Python, and
 
 ---
 
-## 🏆 Achievements
-
-<details open>
-<summary>Compact display</summary>
-<img alt="GitHub achievements compact" src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.plugin.achievements.compact.svg" />
-</details>
-
-<details>
-<summary>Detailed display</summary>
-<img alt="GitHub achievements detailed" src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.plugin.achievements.svg" />
-</details>
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
