@@ -97,7 +97,7 @@
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.plugin.achievements.svg" alt="GitHub Achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ljcordova13&amp;theme=matrix&amp;column=3&amp;margin-w=8&amp;margin-h=8&amp;no-bg=true&amp;no-frame=true&amp;title=-Stars,-Issues,-Reviews" alt="GitHub Achievements" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
