@@ -105,13 +105,6 @@ I'm a full-stack developer with expertise in JavaScript, TypeScript, Python, and
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ljcordova13&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ljcordova13&layout=compact&theme=dark&hide_border=true)
-
----
 
 ## 📚 Featured Projects
 
@@ -120,25 +113,10 @@ I'm a full-stack developer with expertise in JavaScript, TypeScript, Python, and
 
 ---
 
-## 🤝 Contributing
-
-I'm always open to collaborations and contributions! If you're interested in working together:
-
-- Feel free to fork any of my repositories
-- Submit pull requests with improvements or fixes
-- Open issues to report bugs or suggest features
-- Reach out for mentorship or technical discussions
-
----
-
 ## 📞 Get in Touch
 
 - 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/lj-cordova-aa0701402/)
-- 🐦 **Twitter**: [@LJCordova](https://twitter.com/LJCordova)
 - 📧 **Email**: [ljcordova30@gmail.com](mailto:ljcordova30@gmail.com)
 - 📞 **Phone**: [09687944312](tel:09687944312)
-- 💻 **Portfolio**: [ljcordova.dev](https://ljcordova.dev)
 
----
 
-Made with ❤️ by **LJ Cordova**
