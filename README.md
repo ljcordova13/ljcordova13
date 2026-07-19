@@ -77,6 +77,13 @@ I'm a full-stack developer and cloud integrator with expertise in JavaScript, Ty
 
 ### 💳 Inspire Holdings iWallet Platform
 A production-grade fintech platform comprising a mobile wallet app, an administrative portal, and a secure API backend service.
+
+<p align="center">
+  <img src="assets/sevenIWalletLogo.png" width="120" alt="Inspire Wallet Logo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/impay_logo.png" width="120" alt="impay Logo" />
+</p>
+
 *   **Backend API** ([SevenIWalletBackend](file:///c:/INSPIRE/SevenIWalletBackend)) – Built with **NestJS**, **Prisma**, and **PostgreSQL**. Handles secure ledger accounting, authentication, real-time web-socket updates, and transaction audits.
 *   **Admin Portal** ([inspireadmin2](file:///c:/INSPIRE/inspireadmin2)) – Built with **Next.js 16 (App Router)** and **React 19**. Developed a secure dashboard featuring role-based access control (RBAC) to allow developers, administrators, and sales representatives to audit ledger balances and view platform analytics.
 *   **Mobile Wallet** ([InspirewalletV3](file:///c:/INSPIRE/InspirewalletV3)) – Built with **Expo React Native** and **React Navigation**. Delivers a highly responsive UX for users to initiate deposits, view balances, and manage their wallets.
