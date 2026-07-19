@@ -88,6 +88,7 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
+          plugin_achievements_ignored: manager
 
       - uses: lowlighter/metrics@latest
         continue-on-error: true
@@ -97,3 +98,4 @@ jobs:
           filename: metrics.plugin.achievements.svg
           base: ""
           plugin_achievements: yes
+          plugin_achievements_ignored: manager
