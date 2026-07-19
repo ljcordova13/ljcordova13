@@ -87,14 +87,6 @@ I'm a full-stack developer and cloud integrator with expertise in `JavaScript`, 
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ljcordova13&amp;show_icons=true&amp;theme=radical&amp;bg_color=111111&amp;title_color=4ade80&amp;icon_color=4ade80&amp;text_color=ffffff&amp;hide_border=true" height="150" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljcordova13&amp;layout=compact&amp;theme=radical&amp;bg_color=111111&amp;title_color=4ade80&amp;icon_color=4ade80&amp;text_color=ffffff&amp;hide_border=true" height="150" alt="Top Languages" />
-</p>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
