@@ -16,11 +16,7 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
-<h2 align="center">📈 GitHub Metrics</h2>
-
-[![Metrics](https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.svg)](https://github.com/ljcordova13/ljcordova13)
-
-### `>` Starred Topics
+<h2 align="center">📈 Starred Topics</h2>
 
 <details open>
 <summary>With icons</summary>
@@ -84,7 +80,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ljcordova13&amp;show_icons=true&amp;bg_color=050505&amp;title_color=4ade80&amp;icon_color=38bdf8&amp;text_color=a9b1d6&amp;hide_border=true" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.svg" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljcordova13&amp;bg_color=050505&amp;color=a9b1d6&amp;line=4ade80&amp;point=38bdf8&amp;area=true&amp;area_color=4ade80&amp;title_color=4ade80&amp;hide_border=true&amp;radius=12&amp;area=true&amp;custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
@@ -101,14 +97,14 @@
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ljcordova13&amp;theme=matrix&amp;column=3&amp;margin-w=8&amp;margin-h=8&amp;no-bg=true&amp;no-frame=true&amp;title=-Stars,-Issues,-Reviews" alt="GitHub Achievements" />
+  <img src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.plugin.achievements.svg" alt="GitHub Achievements" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
 <h2 align="center">🧠 Most Used Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljcordova13&amp;layout=compact&amp;bg_color=050505&amp;title_color=4ade80&amp;icon_color=38bdf8&amp;text_color=a9b1d6&amp;hide_border=true" alt="Most Used Languages" />
+  <img src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.plugin.languages.svg" alt="Most Used Languages" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
