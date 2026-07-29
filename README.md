@@ -31,17 +31,10 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
-<h2 align="center">📅 Isometric Commit Calendar</h2>
-
-<details open>
-<summary>Full year calendar</summary>
-<img alt="Isometric commit calendar full year" src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.plugin.isocalendar.fullyear.svg" />
-</details>
-
-<details>
-<summary>Half year calendar</summary>
-<img alt="Isometric commit calendar half year" src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.plugin.isocalendar.svg" />
-</details>
+<h2 align="center">⚡ GitHub Streak Stats</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ljcordova13&theme=transparent&ring=4ade80&fire=4ade80&currStreakNum=4ade80&currStreakLabel=a9b1d6&sideNums=38bdf8&sideLabels=a9b1d6&dates=a9b1d6&hide_border=true&v=3" alt="GitHub Streak Stats" />
+</p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
