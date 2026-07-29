@@ -88,13 +88,6 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
-<h2 align="center">🧠 Most Used Languages</h2>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=ljcordova13&layout=compact&bg_color=050505&border_color=1f2937&title_color=4ade80&icon_color=38bdf8&text_color=a9b1d6&hide_border=false&count_private=true" alt="Most Used Languages" />
-</p>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
-
 <h2 align="center">🚀 Featured Projects</h2>
 
 ### [💳] Inspire Holdings iWallet Platform
