@@ -6,12 +6,6 @@
   Welcome to my GitHub profile! I'm a passionate developer building innovative solutions with modern tech stacks. This profile showcases my projects, contributions, and coding journey.
 </p>
 
-<p align="center">
-  <a href="https://portfolioweb-ljcordova13s-projects.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&amp;logo=vercel&amp;logoColor=4ade80&amp;color=111111" alt="Portfolio Website" />
-  </a>
-</p>
-
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
 <h2 align="center">👤 About Me</h2>
@@ -160,6 +154,10 @@ The custom hardware unit features an `ESP32 NodeMCU` controller connected to an 
 <h2 align="center">📬 Get in Touch</h2>
 
 <p align="center">
+  <a href="https://portfolioweb-ljcordova13s-projects.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&amp;logo=vercel&amp;logoColor=4ade80&amp;color=111111" alt="Portfolio Website" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lj-cordova-aa0701402/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&amp;logo=linkedin&amp;logoColor=4ade80&amp;color=111111" alt="LinkedIn" />
   </a>
