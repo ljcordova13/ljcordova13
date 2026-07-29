@@ -31,9 +31,9 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
-<h2 align="center">⚡ GitHub Streak Stats</h2>
+<h2 align="center">📅 Isometric Commit Calendar</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ljcordova13&theme=transparent&ring=4ade80&fire=4ade80&currStreakNum=4ade80&currStreakLabel=a9b1d6&sideNums=38bdf8&sideLabels=a9b1d6&dates=a9b1d6&hide_border=true&v=3" alt="GitHub Streak Stats" />
+  <img alt="Isometric commit calendar half year" src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.plugin.isocalendar.svg" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
@@ -73,7 +73,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.svg" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ljcordova13&theme=transparent&ring=4ade80&fire=4ade80&currStreakNum=4ade80&currStreakLabel=a9b1d6&sideNums=38bdf8&sideLabels=a9b1d6&dates=a9b1d6&hide_border=true&v=3" alt="GitHub Streak Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljcordova13&bg_color=050505&color=a9b1d6&line=4ade80&point=38bdf8&area=true&area_color=4ade80&title_color=4ade80&hide_border=true&radius=12&area=true&custom_title=Contribution%20Graph&v=3" alt="GitHub Activity Graph" />
