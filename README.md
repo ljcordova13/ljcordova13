@@ -154,7 +154,7 @@ The custom hardware unit features an `ESP32 NodeMCU` controller connected to an 
 <h2 align="center">📬 Get in Touch</h2>
 
 <p align="center">
-  <a href="https://portfolioweb-ljcordova13s-projects.vercel.app">
+  <a href="https://portfolioweb-eight-dusky.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&amp;logo=vercel&amp;logoColor=4ade80&amp;color=111111" alt="Portfolio Website" />
   </a>
   &nbsp;&nbsp;
