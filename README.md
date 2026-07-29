@@ -16,16 +16,11 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
-<h2 align="center">📈 Starred Topics</h2>
-
-<details open>
-<summary>With icons</summary>
-<img alt="Starred topics with icons" src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/main/metrics.plugin.topics.icons.svg" />
-</details>
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="Starred topics" src="https://skillicons.dev/icons?i=js,css,html,java,py,aws,chrome,linux,docker,arduino,github,raspberrypi,ts,nextjs,nodejs,mongodb,postgres,electron,apple,windows&amp;perline=10&amp;theme=dark" />
+    <img alt="Tech Stack" src="https://skillicons.dev/icons?i=js,css,html,java,py,ts,react,nextjs,nodejs,nestjs,express,django,prisma,expo,electron,mongodb,postgres,supabase,docker,aws,git,vscode,github,linux,arduino,raspberrypi,chrome,apple,windows&amp;perline=10&amp;theme=dark" />
   </a>
 </p>
 
@@ -45,28 +40,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ljcordova13/ljcordova13/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ljcordova13/ljcordova13/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
-
-<h2 align="center">💻 Tech Stack</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img alt="Languages" src="https://skillicons.dev/icons?i=js,ts,py,postgres&amp;perline=4&amp;theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img alt="Frameworks and libraries" src="https://skillicons.dev/icons?i=react,nextjs,nestjs,prisma,expo,express,django&amp;perline=4&amp;theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img alt="Tools and platforms" src="https://skillicons.dev/icons?i=supabase,docker,aws,git,vscode&perline=4&theme=dark" />
-  </a>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
