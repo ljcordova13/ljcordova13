@@ -6,6 +6,12 @@
   Welcome to my GitHub profile! I'm a passionate developer building innovative solutions with modern tech stacks. This profile showcases my projects, contributions, and coding journey.
 </p>
 
+<p align="center">
+  <a href="https://portfolioweb-ljcordova13s-projects.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&amp;logo=vercel&amp;logoColor=4ade80&amp;color=111111" alt="Portfolio Website" />
+  </a>
+</p>
+
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
 <h2 align="center">👤 About Me</h2>
@@ -113,19 +119,42 @@ The custom hardware unit features an `ESP32 NodeMCU` controller connected to an 
 
 ##### [📱] Android Mobile Application
 <p align="center">
-  <img src="assets/advisoil/advisoil_app_login.png" width="30%" alt="App Authentication Screen" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/advisoil/advisoil_app_dashboard.png" width="30%" alt="Sensor Paired Dashboard" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/advisoil/advisoil_app_gauges.png" width="30%" alt="Real-time Parameter Gauges" />
-</p>
-
-<p align="center">
-  <img src="assets/advisoil/advisoil_app_area_select.png" width="30%" alt="Area Type Dropdown" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/advisoil/advisoil_app_crop_select.png" width="30%" alt="Crop Recommendation Selection" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/advisoil/advisoil_app_recommendation_inputs.png" width="30%" alt="Generated Soil Recommendations" />
+  <table>
+    <tr>
+      <td align="center" width="180">
+        <img src="assets/advisoil/advisoil_app_login.png" width="160" alt="App Authentication Screen" />
+        <br />
+        <sub>Login</sub>
+      </td>
+      <td align="center" width="180">
+        <img src="assets/advisoil/advisoil_app_dashboard.png" width="160" alt="Sensor Paired Dashboard" />
+        <br />
+        <sub>Dashboard</sub>
+      </td>
+      <td align="center" width="180">
+        <img src="assets/advisoil/advisoil_app_gauges.png" width="160" alt="Real-time Parameter Gauges" />
+        <br />
+        <sub>Gauges</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="180">
+        <img src="assets/advisoil/advisoil_app_area_select.png" width="160" alt="Area Type Dropdown" />
+        <br />
+        <sub>Area select</sub>
+      </td>
+      <td align="center" width="180">
+        <img src="assets/advisoil/advisoil_app_crop_select.png" width="160" alt="Crop Recommendation Selection" />
+        <br />
+        <sub>Crop select</sub>
+      </td>
+      <td align="center" width="180">
+        <img src="assets/advisoil/advisoil_app_recommendation_inputs.png" width="160" alt="Generated Soil Recommendations" />
+        <br />
+        <sub>Recommendations</sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <h2 align="center">📬 Get in Touch</h2>
