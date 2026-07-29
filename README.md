@@ -88,23 +88,9 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
 
-<h2 align="center">⚡ GitHub Streak Stats</h2>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ljcordova13&theme=transparent&ring=4ade80&fire=4ade80&currStreakNum=4ade80&currStreakLabel=a9b1d6&sideNums=38bdf8&sideLabels=a9b1d6&dates=a9b1d6&hide_border=true&v=3" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-<p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=ljcordova13&theme=dark&column=3&margin-w=8&margin-h=8&no-bg=false&no-frame=false&title=-Stars,-Issues,-Reviews&v=3" alt="GitHub Achievements" />
-</p>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
-
 <h2 align="center">🧠 Most Used Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ljcordova13&layout=compact&bg_color=050505&border_color=1f2937&title_color=4ade80&icon_color=38bdf8&text_color=a9b1d6&hide_border=false&count_private=true&v=3" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=ljcordova13&layout=compact&bg_color=050505&border_color=1f2937&title_color=4ade80&icon_color=38bdf8&text_color=a9b1d6&hide_border=false&count_private=true" alt="Most Used Languages" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="Divider" /></p>
